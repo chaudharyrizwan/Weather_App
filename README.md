@@ -6,8 +6,8 @@ A simple weather app built with **React + Vite** that fetches real-time weather 
 🔗 [Weather App Live](https://chaudharyrizwan.github.io/Weather_App/)
 
 ## 🖼 Screenshot
-![App Screenshot](image.png)
-![App Screenshot](image-1.png)
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a431ba08-f9d0-46c6-85aa-2d5e3966700e" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a5ad2da6-fc50-499b-a7bf-8c741cf4b33d" />
 
 ## ✨ Features
 - 🌡 Shows real-time temperature, humidity, min/max temperature
