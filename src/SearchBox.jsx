@@ -7,8 +7,8 @@ import Alert from '@mui/material/Alert';
 export default function SearchBox({updateInfo}){
     let [city,setCity] = useState("");
     let [error,setError] = useState(false);
-    const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-    const API_KEY = "6759ddd14126b9e1ce65c0bb1d99f4d2";
+    const API_URL = import.meta.env.VITE_API_URL;
+    const API_KEY = import.meta.env.VITE_API_KEY;
 
     let getWeatherInfo = async () =>{
         try{
